@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Not Notion</title>
+    <link>http://localhost:1313/notion-alternatives/tools/</link>
+    <description>Recent content in Tools on Not Notion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Sun, 24 Mar 2024 18:27:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/notion-alternatives/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian</title>
+      <link>http://localhost:1313/notion-alternatives/tools/details/</link>
+      <pubDate>Sun, 24 Mar 2024 18:27:49 -0500</pubDate>
+      <guid>http://localhost:1313/notion-alternatives/tools/details/</guid>
+      <description>Website https://obsidian.md&#xA;Value Prop Obsidian is a powerful personal knowledge management tool that adapts to your thinking process, allowing you to create, connect, and organize your ideas and notes with ease.</description>
+    </item>
+  </channel>
+</rss>

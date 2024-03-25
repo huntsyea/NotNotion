@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Not Notion</title>
+    <link>http://localhost:1313/alternatives/tools/</link>
+    <description>Recent content in Tools on Not Notion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Sun, 24 Mar 2024 20:46:54 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/alternatives/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian</title>
+      <link>http://localhost:1313/alternatives/tools/obsidian/</link>
+      <pubDate>Sun, 24 Mar 2024 18:27:49 -0500</pubDate>
+      <guid>http://localhost:1313/alternatives/tools/obsidian/</guid>
+      <description>Website: https://obsidian.md&#xA;Category: Note-taking and knowledge management app&#xA;Details Value Prop Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.</description>
+    </item>
+    <item>
+      <title>Fibery</title>
+      <link>http://localhost:1313/alternatives/tools/fibery/</link>
+      <pubDate>Sun, 24 Mar 2024 20:46:54 -0500</pubDate>
+      <guid>http://localhost:1313/alternatives/tools/fibery/</guid>
+      <description>Website: https://fibery.io&#xA;Category: No-code product discovery and development platform&#xA;Details Value Prop Fibery is a highly customizable no-code platform that allows companies to break free from constraints and create tailored workspaces for product discovery, planning, and development.</description>
+    </item>
+    <item>
+      <title>Appflowy</title>
+      <link>http://localhost:1313/alternatives/tools/appflowy/</link>
+      <pubDate>Sun, 24 Mar 2024 20:40:36 -0500</pubDate>
+      <guid>http://localhost:1313/alternatives/tools/appflowy/</guid>
+      <description>Website: https://www.appflowy.io&#xA;Category: Productivity, Knowledge Management&#xA;Details Value Prop AppFlowy is an open-source alternative to Notion that puts you in charge of your data and customizations.</description>
+    </item>
+    <item>
+      <title>Anytype</title>
+      <link>http://localhost:1313/alternatives/tools/anytype/</link>
+      <pubDate>Sun, 24 Mar 2024 20:26:57 -0500</pubDate>
+      <guid>http://localhost:1313/alternatives/tools/anytype/</guid>
+      <description>Website: https://anytype.io&#xA;Category: Productivity App&#xA;Details Value Prop Anytype is a private, secure, and open-source productivity app that allows users to take ownership of their digital life.</description>
+    </item>
+    <item>
+      <title>Capacities</title>
+      <link>http://localhost:1313/alternatives/tools/capacities/</link>
+      <pubDate>Sun, 24 Mar 2024 19:20:32 -0500</pubDate>
+      <guid>http://localhost:1313/alternatives/tools/capacities/</guid>
+      <description>Website: https://capacities.io&#xA;Category: Personal Knowledge Management (PKM)&#xA;Details Value Prop Capacities is an object-based note-taking tool that allows you to structure information as a network of interconnected thoughts.</description>
+    </item>
+  </channel>
+</rss>
