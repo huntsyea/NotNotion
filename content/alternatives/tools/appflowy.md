@@ -16,7 +16,7 @@ seo:
 **Website:** [https://www.appflowy.io](https://www.appflowy.io)
 
 **Category:** Productivity, Knowledge Management
-## Details
+## About AppFlowy
 ---
 ### Value Prop
 AppFlowy is an open-source alternative to Notion that puts you in charge of your data and customizations. It enables you to create apps that suit your needs, built on a community-driven toolbox of plugins, templates, and themes. AppFlowy provides a faster, more stable experience with offline mode and better device integration compared to web-based tools.   
